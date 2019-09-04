@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/eringilheany0056/71b53c21-ff95-4593-97ab-5c84d7999c23/d0ae2e16-e224-4c29-b89a-4ec44e276af8/_apis/work/boardbadge/4ec0afe5-79d1-4c1e-81ad-f45a4fbb106a)](https://dev.azure.com/eringilheany0056/71b53c21-ff95-4593-97ab-5c84d7999c23/_boards/board/t/d0ae2e16-e224-4c29-b89a-4ec44e276af8/Microsoft.RequirementCategory)
 # Hello Code School
 
 This is a sample project to test out how projects work at Code School. For this project, you'll be creating a basic website using HTML. If you want to deploy it to a real website, we'll even walkthrough how to do that!
